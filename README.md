@@ -1,11 +1,15 @@
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
-
 # Basic card (Responsive)
 You are able to add an image and/or personalize your own text.
 
 ## How to use?
 
 Change the value you want to replace using the variables.
+
+## Links
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/basic-card_web-component)
+
+[NPM](https://www.npmjs.com/package/basic-card_web-component "NPM")
+[Github](https://github.com/Nilil/basic-card_Web-Component "Github")
 
 ## Preview
 
@@ -56,7 +60,7 @@ Change the value you want to replace using the variables.
   
 ##   Author
 
-Nithon Enciso - [Github profile](https://github.com/Nilil "Github profile")
+[Nilthon EC](https://github.com/Nilil "Nilthon EC")
 
 ## License
 
