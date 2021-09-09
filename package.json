@@ -1,5 +1,5 @@
 {
-  "name": "card-web-component",
+  "name": "basic-card_web-component",
   "version": "1.0.0",
   "description": "Basic card to show a product, able to be modified",
   "main": "src/index.js",
@@ -17,5 +17,13 @@
     "buy"
   ],
   "author": "Nilthon Enciso <nilthonec@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilil/basic-card_Web-Component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nilil/basic-card_Web-Component/issues"
+  },
+  "homepage": "https://github.com/Nilil/basic-card_Web-Component#readme"
 }

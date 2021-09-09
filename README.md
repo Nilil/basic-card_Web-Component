@@ -8,6 +8,7 @@ You are able to add an image and/or personalize your own text.
 Change the value you want to replace using the variables.
 
 ###Preview
+
 [![Mobile](https://i.imgur.com/sBMiuuU.png "Mobile")](https://i.imgur.com/sBMiuuU.png "Mobile")
 
 [![Desktop](https://i.imgur.com/squeilR.png "Desktop")](https://i.imgur.com/squeilR.png "Desktop")
@@ -15,12 +16,15 @@ Change the value you want to replace using the variables.
 ###Variables:
 
 ####Mobile and desktop
+
  --color-text: Title and text color
   --color-subtext: Subtitle and price color
   --color-bg-first: Bg color of image
   --color-bg-second: Bg color of text
   --color-border: Border color
+  
   #####Mobile
+  
   --font-opacity: Subtitle opacity
   --font-main-title: Title size
   --font-title: Title size (Behind image)
@@ -28,7 +32,9 @@ Change the value you want to replace using the variables.
   --font-text: Text size
   --font-price: Price size
   --font-btn: Button size
+  
   #####Desktop
+  
   --fontDS-main-title:  Title size
   --fontDS-title:  Title size (Behind image)
   --fontDS-subtitle: Subtitle size
@@ -37,7 +43,9 @@ Change the value you want to replace using the variables.
   --fontDS-btn: Button size
   
 ###   Author
+
 Nithon Enciso - [Github profile](https://github.com/Nilil "Github profile")
 
 ### License
+
 Under MIT License
