@@ -1,0 +1,50 @@
+@media (min-width: 700px) {
+  .container {
+    grid-template: 1fr/repeat(2, 1fr);
+    max-width: 1080px;
+
+    &__first {
+      grid-area: 1 / 1 / -1 / 2;
+
+      &--title {
+        font-size: var(--fontDS-main-title);
+      }
+
+      &--image {
+        transform: rotate(358deg) scale(2) translate(25%, 10%);
+      }
+    }
+
+    &__second {
+      display: grid;
+      grid-area: 1 / 2 / -1 / -1;
+      grid-template: 25% 50% 25%/ 1fr;
+
+      &__texts {
+        &--title {
+          font-size: var(--fontDS-title);
+        }
+
+        &--subtitle {
+          font-size: var(--fontDS-subtitle);
+        }
+      }
+
+      &--text {
+        padding: 10% 15%;
+        font-size: var(--fontDS-text);
+      }
+
+      &__details {
+        &--price {
+          font-size: var(--fontDS-price);
+        }
+
+        &--btn {
+          font-size: var(--fontDS-btn);
+          margin: 10% 10% 0 0;
+        }
+      }
+    }
+  }
+}

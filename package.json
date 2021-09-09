@@ -1,0 +1,17 @@
+{
+  "name": "card-web-component",
+  "version": "1.0.0",
+  "description": "Basic card to show a product, able to be modified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-component",
+    "card",
+    "responsive",
+    "mobile-first"
+  ],
+  "author": "Nilthon Enciso <nilthonec@gmail.com>",
+  "license": "MIT"
+}
