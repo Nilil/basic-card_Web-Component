@@ -15,6 +15,18 @@ Change the value you want to replace using the variables.
 
 ## Variables:
 
+### Text
+- "main_title"
+- "img_src"
+- "img_alt"
+- "product_title"
+- "product_subtitle"
+- "product_text"
+- "product_price"
+- "btn_text"
+
+### CSS
+
 ### Mobile and desktop
 
 -  --color-text: Title and text color
